@@ -1,0 +1,192 @@
+Company,Model,Display Height,Display Width,Display Size,Display Quality,Display Type,Processor Name,Processor Generation,Memory,Ram,Videocard,Videocard Storage,Illuminated keyboard,Price,Website index
+Lenovo,Legion 5 15ARH7H,1440,2560,15.6,QHD,,Ryzen 7,6800H,512,16,GeForce RTX3060,6,1,520000,3
+Lenovo,IP1 15AMN7,1080,1920,15.6,FullHD,,Ryzen 3,7320U,256,8,Radeon Graphics,,0,175000,3
+HP,,1080,1920,15.6,FullHD,,Ryzen 5,7520U,256,8,Radeon Graphics,,0,227000,3
+Dell,Precision 5770,1080,1920,17.3,FullHD,,Core i7,12800H,512,32,Intel Iris Plus Graphics,,1,855000,3
+Lenovo,IP Slim 3 15ABR8,1080,1920,15.6,FullHD,,Ryzen 7,7730U,1,16,Radeon Graphics,,0,301000,3
+HP,Omen,1080,1920,15.6,FullHD,,Ryzen 7,6800H,512,16,GeForce RTX3060,6,0,579000,3
+Dell,Alienware X14 R1,1080,1920,14.0,FullHD,,Core i7,12700H,512,16,GeForce RTX3060,6,0,737000,3
+Dell,Latitude 5411,1080,1920,14.0,FullHD,,Core i7,10850H,512,32,Intel UHD Graphics,,0,338000,3
+HP,Pavilion,1080,1920,15.6,FullHD,,Ryzen 7,5700U,512,16,Radeon Graphics,,0,278000,3
+HP,,768,1366,15.6,HD,,Ryzen 7,5700U,512,16,Radeon Graphics,,0,274000,3
+HP,,768,1366,15.6,HD,,Core i5,1135G7,256,8,Intel Iris Plus Graphics,,0,223000,3
+HP,,768,1366,15.6,HD,,Core i7,1165G7,256,8,Intel Iris Plus Graphics,,0,264000,3
+Asus,Creator,1800,2880,15.6,,,Core i9,13900H,1,16,GeForce RTX3050,4,0,625000,3
+Asus,VivoBook Pro 16X,1080,1920,16.0,FullHD,,Core i7,12650H,1,32,GeForce RTX3060,6,0,625000,3
+HP,Victus,1080,1920,15.6,FullHD,,Core i5,13420H,512,8,GeForce RTX3050,4,1,416000,3
+Asus,ZenBook,2160,3456,14.0,UHD+,,Core i5,1240P,512,16,Intel Iris Plus Graphics,,1,431000,3
+HP,ZBook Studio 16 Inch G9,2160,3456,16.0,UHD+,,Core i7,12800H,1,32,GeForce RTX A1000,4,1,740000,3
+Dell,Inspiron 7620,1920,3072,16.0,,,Core i7,12700H,1,32,GeForce RTX3060,6,0,551000,3
+Lenovo,IP Slim 3 15IRU8,1080,1920,15.6,FullHD,,Core i5,1335U,256,8,Intel Iris Plus Graphics,,0,246000,3
+HP,Omen,1080,1920,16.0,FullHD,,Ryzen 9,5800HX,1,16,Radeon RX6600M,8,1,555000,3
+Dell,Latitude 7440,1200,1920,14.0,FHD+,,Core i5,1340P,256,16,Intel iris Plus Graphics,,1,338000,3
+Acer,Nitro 5,1440,2560,15.6,QHD,,Ryzen 7,6800H,1,16,GeForce RTX3070Ti,8,1,620000,3
+Lenovo,LOQ 15APH8,1080,1920,15.6,FullHD,,Ryzen 7,7840HS,512,16,GeForce RTX4060,8,1,555000,3
+MSI,Sword 15,1080,1920,15.6,FullHD,,Core i7,12650H,1,16,GeForce RTX3060,6,1,500000,3
+Dell,XPS 9315,1200,1920,13.4,FHD+,,Core i7,1250U,512,16,Intel Iris Xe Graphics,,0,520000,3
+Acer,Aspire,1080,1920,15.6,FullHD,,Core i3,1215U,512,8,Intel Iris Plus Graphics,,0,195000,3
+Acer,Aspire,1080,1920,15.6,FullHD,,Ryzen 7,5700U,512,8,Radeon RX640,2,0,277000,3
+Gigabyte,Aorus 15 X5LF,1080,1920,15.6,FullHD,,Core i5,13500H,512,8,GeForce RTX4050,6,0,499000,3
+HP,,900,1600,17.3,HD+,,Athlon Gold,7220U,128,8,Radeon Graphics,,0,172000,3
+Asus,Zenbook Pro 17,1080,1920,17.3,FullHD,,Ryzen 7,6800H,512,16,Radeon Graphics,,0,462000,3
+MSI,Pulse GL66,1080,1920,15.6,FullHD,,Core i7,12700H,512,16,GeForce RTX3060,6,1,520000,3
+Asus,VivoBook,1080,1920,14.0,FullHD,,Ryzen 7,4800H,256,16,Radeon Graphics,,1,277000,3
+Dell,Precision 3480,1080,1920,14.0,FullHD,,Core i5,1335U,512,16,Intel Iris Plus Graphics,,1,348000,3
+Asus,VivoBook,1080,1920,17.3,FullHD,,Core i3,1220P,512,8,Intel iris Plus Graphics,,0,245000,3
+Asus,VivoBook,1200,1920,15.6,FHD+,,Ryzen 7,5800H,1,16,Radeon Graphics,,1,301000,3
+Asus,VivoBook,1200,1920,15.6,FHD+,,Core i5,12500H,512,16,Intel Iris Plus Graphics,,0,292000,3
+Asus,VivoBook,1200,1920,15.6,FHD+,,Ryzen 5,7530U,512,8,Radeon Graphics,,1,249000,3
+Asus,VivoBook Pro 15,1080,1920,15.6,FullHD,,Ryzen 5,5600H,512,8,GeForce GTX1650,4,0,305000,3
+Asus,VivoBook,1080,1920,15.6,FullHD,,Core i3,1215U,256,8,Intel Iris Plus Graphics,,0,209000,3
+Asus,VivoBook,1080,1920,15.6,FullHD,,Core i3,1115G4,256,8,Intel Iris Plus Graphics,,0,199000,3
+Asus,VivoBook,1080,1920,15.6,FullHD,,Core i3,1115G4,256,8,Intel Iris Plus Graphics,,0,199000,3
+MSI,Katana GF76,1080,1920,17.3,FullHD,,Core i7,12700H,512,16,GeForce RTX3050Ti,4,0,470000,3
+Apple,MacBook Air 15 MQKU3,1800,2880,15.3,,,,,256,8,,,0,578000,3
+Apple,MacBook Air 15 MQKR3,1800,2880,15.3,,,,,256,8,,,1,578000,3
+Apple,MacBook Air 15 MQKW3,1800,2880,15.3,,,,,256,8,,,1,578000,3
+Apple,MacBook Air 15 MQKP3,1800,2880,15.3,,,,,256,8,,,1,578000,3
+Lenovo,ThinkPad E15 Gen4,1080,1920,15.6,FullHD,,Core i7,1255U,512,16,Intel iris Plus Graphics,,1,413000,3
+Lenovo,Legion Pro 7 16IRX8H,1600,2560,16.0,QHD,,Core i9,13900HX,1,16,GeForce RTX4080,12,1,1320000,3
+LG,"Gram 15"" 16Z90P",1600,2560,15.6,QHD,,Intel Core i7,1165G7,512,16,Intel Iris Plus Graphics,,0,445000,3
+HP,Spectre X360,1920,3072,16.0,,,Intel Core i7,11390H,512,16,Intel Iris Plus Graphics,,1,799000,3
+Apple,MacBook Pro 16 Z14V000GM,2234,3456,16.2,,,Apple M1,MAX,1,32,,,0,1269000,3
+HP,,1080,1920,15.6,FullHD,,Intel Core i5,1235U,512,8,Intel Iris Plus Graphics,,0,249000,3
+HP,ProBook 450 G9,1080,1920,15.6,FullHD,,Intel Core i5,1235U,512,8,GeForce MX570,2,1,338000,3
+OMEN,By HP Gaming,1080,1920,16.1,FullHD,,Intel Core i5,13420H,512,16,GeForce RTX4050,6,1,483000,3
+Microsoft,Surface Laptop 5,1600,2560,15.6,QHD,,Intel Core i7,1265U,512,16,Intel Iris Plus Graphics,,1,640000,3
+Lenovo,IP Slim 3 15IRU8,1080,1920,15.6,FullHD,,Intel Core i3,1315U,256,8,Intel Iris Plus Graphics,,0,199000,3
+MSI,Cyborg 15,1080,1920,15.6,FullHD,,Intel Core i7,12650H,512,8,GeForce RTX4060,8,0,600000,3
+HP,ProBook X360 11 G7,768,1366,11.6,HD,,Intel,N5100,128,4,Intel UHD Graphics,,0,116000,3
+MSI,Raider GE77HX 12UGS,1440,2560,17.3,QHD,,Intel Core i7,12800HX,1,16,GeForce RTX 3070Ti,8,1,768000,3
+Lenovo,IP Slim 3 15AMN8,1080,1920,15.6,FullHD,,Ryzen 7,7520U,512,8,radeon Graphics,,0,237000,3
+Dell,Precision 3560,1080,1920,15.6,FullHD,,Intel Core i5,1145G7,512,16,Nvidia Quadro T500,,1,355000,3
+Apple,MacBook Pro MNWA3 M2 MAX,2234,3456,16.2,,,M2 MAX,CHIP,1,32,,,0,1380000,3
+Dell,XPS 15 9520 Oled,2160,3456,15.6,UHD+,,Intel Core i9,12900HK,1,32,GeForce RTX 3050Ti,4,1,792000,3
+Dell,Latitude 3190,768,1366,11.6,HD,,Intel,N4120,128,4,Intel UHD Graphics 600,,0,88000,3
+Asus,VivoBook,1080,1920,15.6,FullHD,,Ryzen 5,4600H,512,16,Radeon,Graqphi,0,277000,3
+Asus,ZenBook Duo,1080,1920,14.0,FullHD,,Intel Core i7,1165G7,1,16,Nvidia GeForce MX450,2,1,695000,3
+Dell,Special Edition G15 5521,1600,2560,15.6,QHD,,Intel Core i9,12900H,1,16,Nvidia GeFOrce RTX3070Ti,8,0,770000,3
+Dell,Alienware M15 R7,1080,1920,15.6,FullHD,,Intel Core i9,12900H,1,16,Nvidia GeForce RTX3070Ti,8,1,815000,3
+Acer,Predator Triton 300SE,1200,1920,14.0,FHD+,,Intel COre i7,12700H,512,16,Nvidia GeForce RTX3060,6,0,557000,3
+Dell,Inspiron 16 Plus 7620,1964,3024,16.0,,,Core i7,12700H,1,40,Intel Iris Xe Graphics,,1,477000,3
+Acer,Swift 3,1600,2560,13.3,QHD,,Core i5,1135G7,512,8,Geforce MX350,2,1,301000,3
+MSI,Katana GF76,1080,1920,17.3,FullHD,,Core i7,12700H,512,16,GeForce RTX3060,6,0,681000,3
+Samsung,GalaxyBook 3 360,1080,1920,15.6,FullHD,,Core i7,1360P,512,16,Intel Iris Plus Graphics,,0,718000,3
+Dell,Alienware M15 R7,1440,2560,15.6,QHD,,Core i9,12900H,1,32,GeForce RTX3080,10,1,1055000,3
+MSI,Stealth GS66,1440,2560,15.6,QHD,,Core i9,12900H,1,64,GeForce RTX3080,10,1,1162000,3
+MSI,Raider GE67HX,1440,2560,15.6,QHD,,Core i9,12900HX,1,32,GeForce RTX3080Ti,16,1,1255000,3
+Asus,VivoBook,1080,1920,15.6,FullHD,,Core i5,1035G1,256,8,Intel UHD Graphics,,0,255000,3
+HP,Victus,1080,1920,16.1,FullHD,,Core i7,12700H,512,16,RTX3060,6,1,579000,3
+HP,,768,1366,15.6,HD,,Ryzen 5,5500U,256,8,Radeon Graphics,,0,227000,3
+HP,,768,1366,15.6,HD,,Core i7,1165G7,512,8,GeForce MX450,2,0,299000,3
+Asus,VivoBook,1200,1920,15.6,FHD+,,Ryzen 7,5800H,512,16,Radeon Graphics,,0,385000,3
+HP,Pavilion,1080,1920,15.6,FullHD,,Core i7,1165G7,512,8,Intel Iris Plus Graphics,,1,329000,3
+MSI,Raider GE66 12UHS,1440,2560,15.6,QHD,,Core i7,12700H,1,32,GeForce RTX3080Ti,16,0,1111000,3
+Dell,G7 7620,1600,2560,16.0,QHD,,Core i7,12700H,512,16,GeForce RTX3050Ti,4,1,499000,3
+Asus,TUF Gaming,1080,1920,15.6,FullHD,,Ryzen 5,4600H,512,8,GeForce GTX1650,4,0,342000,3
+HP,,1080,1920,15.6,FullHD,,Core i3,1215U,256,4,Intel Iris Plus Graphics,,0,163000,3
+HP,,1080,1920,15.6,FullHD,,Core i5,1235U,512,8,Intel Iris Plus Graphics,,0,264000,3
+Asus,VivoBook X1500E,1080,1920,15.6,FullHD,,Core i5,1135G7,512,8,Intel Iris Plus Graphics,,0,235000,3
+Microsoft,Surface Laptop Studio,1600,2560,14.4,QHD,,Core i7,11370H,512,16,GeForce RTX3050Ti,4,1,755000,3
+MSI,Vector GP76,1080,1920,17.3,FullHD,,Core i7,12650H,1,16,GeForce RTX3080Ti,16,1,999000,3
+MSI,GF65 Thin,1080,1920,15.6,FullHD,,Core i7,10750H,512,32,GeForce GTX1660Ti,6,1,579000,3
+MSI,Katana GF66,1080,1920,15.6,FullHD,,Core i7,12650H,512,16,GeForce RTX3050Ti,4,0,555000,3
+MSI,GF63 Thin,1080,1920,15.6,FullHD,,Core i5,11400H,256,8,Geforce RTX3050,4,1,375000,3
+HP,,1080,1920,14.0,FullHD,,Ryzen 5,5500U,256,8,Radeon Graphics,,0,209000,3
+Lenovo,Legion 5 Pro 16IAH7H,1600,2560,16.0,QHD,,Core i7,12700H,1,32,GeForce RTX3070,8,0,940000,3
+Acer,Aspire 3,1080,1920,15.6,FullHD,,Core i7,1255U,256,8,Intel Iris Plus Graphics,,0,299000,3
+MSI,Katana GF76,1080,1920,17.3,FullHD,,Core i7,12700H,512,16,GeForce RTX3050Ti,4,1,530000,3
+MSI,GF63 Thin,1080,1920,15.6,FullHD,,Core i5,11400H,512,8,GeForce GTX1650,4,1,335000,3
+HP,,768,1366,15.6,HD,,Core i3,1215U,256,4,Intel Iris Plus Graphics,,0,159000,3
+HP,,768,1366,15.6,HD,,Core i7,1255U,512,8,Intel Iris Plus Graphics,,0,315000,3
+HP,,1080,1920,15.6,FullHD,,Core i7,1255U,512,8,GeForce MX550,2,0,329000,3
+HP,ProBook 640 G8,1080,1920,14.0,FullHD,,Core i7,1165G7,128,8,Intel Iris Plus Graphics,,0,310000,3
+HP,Envy,1080,1920,15.6,FullHD,,Core i7,1255U,512,16,Intel Iris Plus Graphics,,1,390000,3
+ASUS,ROG Strix Scar,1080,1920,15.6,FullHD,,Ryzen 9,5900HX,1,32,GeForce RTX3080,8,1,845000,3
+Apple,MacBook Pro MNWD3,2234,3456,16.2,,,Apple M2,Pro,1,16,,,0,1094000,3
+Apple,MacBook Pro MNW93,2234,3456,16.2,,,Apple M2,Pro,1,16,,,0,1094000,3
+Apple,MacBook Pro MNWC3,2234,3456,16.2,,,Apple M2,Pro,512,16,,,0,955000,3
+Apple,MacBook Pro MNW83,2234,3456,16.2,,,Apple M2,Pro,512,16,,,0,955000,3
+Apple,MacBook Pro MPHJ3,1964,3024,14.2,,,Apple M2,Pro,1,16,,,0,995000,3
+Apple,MacBook Pro MPHF3,1964,3024,14.2,,,Apple M2,Pro,1,16,,,0,995000,3
+Apple,MacBook Pro MPHH3,1964,3024,14.2,,,Apple M2,Pro,512,16,,,0,793000,3
+Apple,MacBook Pro MPHE3,1964,3024,14.2,,,Apple M2,Pro,512,16,,,0,793000,3
+HP,Envy,1080,1920,15.6,FullHD,,Ryzen 7,5825U,512,8,Radeon Graphics,,1,329000,3
+Dell,Precision 5760,1200,1920,17.3,FHD+,,Core i7,11850H,512,32,GeForce RTX A2000,4,1,955000,3
+Acer,Swift 3,1080,1920,14.0,FullHD,,Core i7,1165G7,512,8,Iris Xe Graphics,,0,347000,3
+Acer,Swift 3,1080,1920,14.0,FullHD,,Core i5,1135G7,512,8,Iris Xe Graphics,,1,288000,3
+HP,,1080,1920,15.6,FullHD,,Core i3,1115G4,256,8,Intel Iris Plus Graphics,,0,194000,3
+MSI,Katana GF66,1080,1920,15.6,FullHD,,Core i7,12650H,512,16,Geforce RTX3050,4,1,545000,3
+MSI,Modern 15,1080,1920,15.6,FullHD,,Core i5,1235U,512,8,Intel Iris Plus Graphics,,1,299000,3
+Lenovo,IP 1 15IAU7,1080,1920,15.6,FullHD,,Core i3,1215U,512,8,Intel Iris Plus Graphics,,0,190000,3
+Lenovo,IP 3 17IAU7,1080,1920,17.3,FullHD,,Core i3,1215U,512,8,Intel Iris Plus Graphics,,0,265000,3
+Lenovo,IP 3 15IAU7,1080,1920,15.6,FullHD,,Core i5,1235U,256,8,Intel Iris Plus Graphics,,0,231000,3
+Dell,Precision 7670,1200,1920,16.0,FHD+,,Core i7,12850HX,256,64,Geforce RTX A3000,12,1,950000,3
+Acer,Predator Triton 300,1080,1920,15.6,FullHD,,Core i7,11800H,512,16,GeForce RTX3060,6,1,599000,3
+MSI,Summit E16 Flip,1200,1920,16.0,FHD+,,Core i7,1280P,1,16,Intel Iris Plus Graphics,,1,769000,3
+MSI,GF63 Thin,1080,1920,15.6,FullHD,,Core i5,11400H,256,16,Geforce RTX3050,4,0,445000,3
+HP,,768,1366,15.6,HD,,Ryzen 7,5700U,512,16,Radeon Graphics,,0,292000,3
+Asus,VivoBook X515E,1080,1920,15.6,FullHD,,Core i7,1165G7,512,8,GeForce MX330,2,1,342000,3
+HP,ProBook 450 G9,1080,1920,15.6,FullHD,,Core i7,1255U,512,12,Intel Iris Plus Graphics,,0,398000,3
+HP,ProBook 450 G9,1080,1920,15.6,FullHD,,Core i5,1235U,256,8,Intel Iris Plus Graphics,,1,296000,3
+HP,EliteBook 640 G9,1080,1920,14.0,FullHD,,Core i5,1245U,256,16,Intel Iris Plus Graphics,,1,274000,3
+Asus,VivoBook,1080,1920,14.0,FullHD,,Core i7,1165G7,512,8,Intel Iris Plus Graphics,,0,370000,3
+HP,,1080,1920,15.6,FullHD,,Ryzen 7,5700U,256,8,Radeon Graphics,,0,287000,3
+Lenovo,IdeaPad Gaming 3 15IHU6,1080,1920,15.6,FullHD,,Core i5,11300H,256,8,GeForce GTX1650,4,0,329000,3
+Dell,Inspiron 7506,1080,1920,15.6,FullHD,,Core i5,1135G7,256,8,Intel Iris Plus Graphics,,1,345000,3
+Microsoft,Surface Laptop 4,1440,2560,13.5,QHD,,Core i7,1185G7,256,16,Intel Iris Plus Graphics,,1,598000,3
+Asus,VivoBook K3400P OLED,1800,2880,14.0,,,Core i7,11370H,512,8,GeForce GTX1650,4,0,394000,3
+Dell,Precision 7670,1200,1920,16.0,FHD+,,Core i9,12950HX,2,64,GeForce RTX A4500,16,1,1415000,3
+Lenovo,Flex 5 16IAU7,1200,1920,16.0,FHD+,,Core i7,1255U,512,16,Intel Iris Plus Graphics,,1,429000,3
+Dell,Inspiron 15 7620 (2 In 1),1200,1920,16.0,FHD+,,Core i7,1260P,512,16,Intel Iris Plus Graphics,,1,462000,3
+Asus,TUF Gaming F15,1080,1920,15.6,FullHD,,Core i7,12650H,512,16,GeForce RTX3070,8,1,607000,3
+Asus,ROG Strix G15,1080,1920,15.6,FullHD,,Ryzen 9,6900HX,1,16,GeForce RTX3060,6,0,740000,3
+Dell,XPS 9520,1200,1920,15.6,FHD+,,Core i7,12700H,512,32,Geforce RTX3050,4,0,648000,3
+HP,,768,1366,14.0,HD,,Core i5,1135G7,256,8,Intel Iris Plus Graphics,,0,227000,3
+HP,,768,1366,15.6,HD,,Core i3,1215U,256,8,Intel Iris Plus Graphics,,0,169000,3
+HP,,900,1600,17.3,HD+,,Core i7,1165G7,1,16,Intel Iris Plus Graphics,,1,348000,3
+HP,Pavilion X360,1080,1920,14.0,FullHD,,Core i5,1235U,512,8,Intel Iris Plus Graphics,,0,297000,3
+Asus,VivoBook,1080,1920,14.0,FullHD,,Ryzen 5,5500U,256,8,Radeon Graphics,,1,295000,3
+MSI,GF63 Thin,1080,1920,15.6,FullHD,,Core i5,11400H,512,8,Geforce RTX3050,4,0,419000,3
+Lenovo,IdeaPad 5 Pro 16IHU6,1440,2560,16.0,QHD,,Core i5,11300H,512,8,MX450,2,1,277000,3
+HP,,1080,1920,15.6,FullHD,,Core i5,10210U,256,8,GeForce MX110,2,0,245000,3
+Lenovo,ThinkPad X1 Carbon Gen. 9,1200,1920,14.0,FHD+,,Core i5,1145G7,256,8,Intel Iris Plus Graphics,,0,462000,3
+Asus,ZenBook Q409Z,1080,1920,14.0,FullHD,,Core i5,1240P,256,8,Intel Iris Plus Graphics,,1,345000,3
+Dell,XPS 15 9520,1200,1920,15.6,FHD+,,Core i5,12500H,512,16,Intel Iris Plus Graphics,,1,514000,3
+HP,Victus,1080,1920,15.6,FullHD,,Core i5,12450H,512,8,GeForce GTX1650,4,1,310000,3
+Dell,XPS 15 9520,1200,1920,15.6,FHD+,,Core i5,12500H,512,16,Intel Iris Plus Graphics,,0,514000,3
+Dell,XPS 9310 Touch,2160,3840,13.4,4K,,Core i7,1165G7,256,8,Intel Xe Graphics,,1,496000,3
+Asus,ROG Strix G15,1080,1920,15.6,FullHD,,Ryzen 9,5980HX,512,16,Radeon RX6800M,12,0,635000,3
+Dell,Vostro 3400,1080,1920,14.0,FullHD,,Core i5,1135G7,256,8,Intel Iris Plus Graphics,,0,345000,3
+Acer,Nitro 5,1080,1920,15.6,FullHD,,Core i5,11400H,256,8,GeForce GTX1650,4,1,370000,3
+MSI,Modern 15,1080,1920,15.6,FullHD,,Core i7,1195G7,512,8,Intel Iris Plus Graphics,,0,345000,3
+MSI,Modern 15,1080,1920,15.6,FullHD,,Core i7,1195G7,512,8,Intel Iris Plus Graphics,,0,379000,3
+Dell,Vostro 3510,1080,1920,15.6,FullHD,,Core i5,1135G7,256,4,Intel Iris Plus Graphics,,0,225000,3
+MSI,Modern 15,1080,1920,15.6,FullHD,,Core i3,1115G4,256,8,Intel Iris Plus Graphics,,0,279000,3
+Asus,ZenBook,1080,1920,14.0,FullHD,,Ryzen 7,5800H,512,16,Radeon Graphics,,1,413000,3
+HP,,1080,1920,15.6,FullHD,,Core i5,1135G7,256,8,Intel Iris Plus Graphics,,0,245000,3
+Acer,Predator Helios 300,1080,1920,15.6,FullHD,,Core i7,12700H,512,16,GeForce RTX3060,6,0,533000,3
+MSI,Katana GF66,1080,1920,15.6,FullHD,,Core i7,12650H,512,16,Geforce RTX3050Ti,4,1,479000,3
+MSI,GF63 Thin,768,1366,15.6,HD,,Core i5,11400H,256,8,Geforce RTX3050,4,1,370000,3
+Acer,Aspire,900,1600,17.3,HD+,,Intel,N6000,512,20,Intel Iris Plus Graphics,,0,255000,3
+Lenovo,ThinkBook Plus,1080,1920,13.3,FullHD,,Core i5,10210U,256,8,Intel UHD Graphics,,1,365000,3
+MSI,Katan GF66,1080,1920,15.6,FullHD,,Core i7,12650H,512,8,GeForce RTX3050,4,1,499000,3
+Dell,Inspiron 3511,1080,1920,15.6,FullHD,,Core i7,1165G7,512,12,Intel Iris Plus Graphics,,0,399000,3
+Asus,VivoBook K3500P,1080,1920,15.6,FullHD,,Core i5,11300H,512,8,Intel Iris Plus Graphics,,1,450000,3
+Lenovo,IP3 15ITL05,1080,1920,15.6,FullHD,,Core i3,1115G4,256,8,Intel Iris Plus Graphics,,0,189000,3
+Acer,Swift 3,1080,1920,14.0,FullHD,,Core i7,1165G7,256,8,Iris Xe Graphics,,1,338000,3
+HP,,1080,1920,17.3,FullHD,,Ryzen 7,5700U,256,8,Radeon Graphics,,0,319000,3
+HP,Envy X360,1080,1920,15.6,FullHD,,Core i5,1135G7,256,8,Intel UHD Graphics,,1,335000,3
+Apple,MacBook Pro 14 2021 MKGQ3,1964,3024,14.2,,,M1 Pro,Chip,1,16,,,0,873000,3
+Apple,MacBook Pro 16 MK1F3,2234,3456,16.2,,,M1 Pro,Chip,1,16,,,0,905000,3
+Apple,MacBook Pro MK1E3,2234,3456,16.2,,,Apple M1,Pro,512,16,,,0,825000,3
+Apple,MacBook Pro MKGP3,1964,3024,14.2,,,Apple M1,Pro,512,16,,,0,705000,3
+Apple,MacBook Pro 16 2021 MK1A3 M1 MAX,2234,3456,16.2,,,M1 MAX,Chip,1,32,,,0,1269000,3
+Apple,MacBook Pro 16 2021 MK193,2234,3456,16.2,,,M1 Pro,Chip,1,16,,,0,898000,3
+Dell,Latitude 3510,1080,1920,15.6,FullHD,,Core i5,10210U,256,8,Intel UHD Graphics,,0,222000,3
+Lenovo,IP3 14ITL6,1080,1920,14.0,FullHD,,Core i7,1165G7,512,8,Intel Iris Plus Graphics,,0,291000,3
+Apple,MacBook Pro 16 2021 MK183,2234,3456,16.2,,,M1 Pro,Chip,512,16,,,0,795000,3
+Acer,Predator Helios,1080,1920,15.6,FullHD,,Core i9,11900H,512,16,GeForce RTX3060,6,1,648000,3
+Asus,VivoBook X712JA,1080,1920,17.3,FullHD,,Core i5,1035G1,256,12,Intel UHD Graphics,,0,260000,3
+MSI,GF63 Thin,1080,1920,15.6,FullHD,,Core i5,10500H,256,8,GeForce GTX1650,4,1,295000,3
+Dell,Inspiron 3493,768,1366,14.0,HD,,Core i5,1035G4,128,4,Intel UHD Graphics,,0,213000,3
